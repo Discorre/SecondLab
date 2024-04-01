@@ -1,0 +1,3 @@
+C:/Users/egori/IdeaProjects/LabSecond/Var10C++/cmake-build-debug/CMakeFiles/Var10C__.dir
+C:/Users/egori/IdeaProjects/LabSecond/Var10C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/egori/IdeaProjects/LabSecond/Var10C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
