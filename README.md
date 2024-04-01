@@ -12,8 +12,8 @@
 Пример:
 ```
 Введите размеры шахматной доски (N M): 8 8
-Введите последовательность движений: LURD
-Вывод: (0,0)
+Введите последовательность движений: LLLUDRULLDEDU
+Вывод: (3, 5)
 ```
 
 # SumOfDigits
@@ -71,9 +71,9 @@ This Java program `ChessboardMovement` allows users to simulate movements of a p
 
 Example:
 ```
-Enter the dimensions of the chessboard (N M): 8 8
-Enter the sequence of movements: LURD
-Output: (0,0)
+Enter the dimensions of the chessboard (N M): 12 12
+Enter the sequence of movements: LLLUDRULLDEDU
+Output: (3, 5)
 ```
 
 # SumOfDigits
