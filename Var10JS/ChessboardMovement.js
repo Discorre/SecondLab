@@ -29,8 +29,8 @@ function findStartPosition(N, M, s) {
 
                 if (move === 'L') y--;
                 else if (move === 'R') y++;
-                else if (move === 'U') x--;
-                else if (move === 'D') x++;
+                else if (move === 'U') x++;
+                else if (move === 'D') x--;
             }
 
             if (valid) {
