@@ -33,9 +33,9 @@ func findStartPosition(n: Int, m: Int, s: String) -> (Int, Int) {
                 case "R":
                     y += 1
                 case "U":
-                    x -= 1
-                case "D":
                     x += 1
+                case "D":
+                    x -= 1
                 default:
                     break
                 }
